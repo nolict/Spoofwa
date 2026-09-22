@@ -1,6 +1,6 @@
 {
     "id": "galaxy_a15_5g",
-    "brandLabel": "Samsung",
+    "brandLabel": "Sri Lanka",
     "modelLabel": "Galaxy A15 5G",
     "summary": "MediaTek Dimensity 6100+ - Android 14",
     "profile": {
@@ -26,12 +26,13 @@
         "screenWidth": 1080,
         "screenHeight": 2340,
         "screenDensity": 396,
-        "operatorAlpha": "Dialog",
-        "operatorNumeric": "41302",
-        "simOperatorAlpha": "Dialog",
-        "simOperatorNumeric": "41302",
+        "operatorAlpha": "Mobitel",
+        "operatorNumeric": "41301",
+        "simOperatorAlpha": "Mobitel",
+        "simOperatorNumeric": "41301",
         "simCountryIso": "lk",
         "timezone": "Asia/Colombo",
+        "locale": "si-LK",
         "socModel": "MT6835",
         "socManufacturer": "MediaTek"
     }
