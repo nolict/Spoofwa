@@ -1,0 +1,30 @@
+{
+    "id": "tecno_spark_10",
+    "brandLabel": "Central",
+    "modelLabel": "Africa",
+    "summary": "MediaTek Helio G88 - Android 13",
+    "profile": {
+        "brand": "tecno",
+        "manufacturer": "TECNO",
+        "model": "KI5q",
+        "productName": "KI5q",
+        "deviceCode": "KI5q",
+        "board": "mt6769",
+        "hardware": "mt6769",
+        "boardPlatform": "mt6769",
+        "buildRelease": "13",
+        "buildSdk": 33,
+        "screenWidth": 1080,
+        "screenHeight": 2460,
+        "screenDensity": 395,
+        "operatorAlpha": "Orange",
+        "operatorNumeric": "62303",
+        "simOperatorAlpha": "Orange",
+        "simOperatorNumeric": "62303",
+        "simCountryIso": "cf",
+        "timezone": "Africa/Bangui",
+        "locale": "fr-CF",
+        "socModel": "MT6769",
+        "socManufacturer": "MediaTek"
+    }
+}
