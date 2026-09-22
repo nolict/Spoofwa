@@ -1,0 +1,29 @@
+{
+    "id": "galaxy_a15_sudan",
+    "brandLabel": "Sudan",
+    "modelLabel": "Galaxy A15",
+    "summary": "MediaTek Helio G99 - Android 14",
+    "profile": {
+        "brand": "samsung",
+        "manufacturer": "Samsung",
+        "model": "SM-A155F",
+        "productName": "a15",
+        "deviceCode": "a15",
+        "board": "mt6789",
+        "hardware": "mt6789",
+        "boardPlatform": "mt6789",
+        "buildRelease": "14",
+        "buildSdk": 34,
+        "screenWidth": 1080,
+        "screenHeight": 2340,
+        "screenDensity": 396,
+        "operatorAlpha": "Zain",
+        "operatorNumeric": "63401",
+        "simOperatorAlpha": "Zain",
+        "simOperatorNumeric": "63401",
+        "simCountryIso": "sd",
+        "timezone": "Africa/Khartoum",
+        "socModel": "MT6789",
+        "socManufacturer": "MediaTek"
+    }
+}
